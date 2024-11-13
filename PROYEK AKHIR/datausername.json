@@ -1,0 +1,14 @@
+{
+    "akun": [
+        {
+            "username": "Kelompok6",
+            "password": "Ownertokomebel66",
+            "role": "Owner"
+        },
+        {
+            "username": "Jaki23",
+            "password": "Jaki2310",
+            "role": "Pembeli"
+        }
+    ]
+}
